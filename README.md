@@ -1,5 +1,15 @@
 # PureNotes
 
+An easy way of viewing (and soon editing) your Apple Notes on your android device
+
+How to use:
+- use [AndroidRestore](https://github.com/Lrdsnow/AndroidRestore) to get your notes
+- install PureNotes
+- allow all file access perms
+- enjoy!
+
+# Skip Stuff
+
 This is a [Skip](https://skip.tools) dual-platform app project.
 It builds a native app for both iOS and Android.
 
